@@ -1,2 +1,2 @@
 # learngit
-git learn
+my first git 
